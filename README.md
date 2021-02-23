@@ -6,16 +6,16 @@
 * Nick Magruder
 
 ## Overview
-* 
+* not yet deplyed (code not yet working), work-in-progress
 
 
 ## User Instructions
-* not yet deplyed (code not yet working)
+* not yet deplyed (code not yet working), work-in-progress
 
 * To run tests, clone to a directory and run npm test in directory in terminal
 
 ## UML Chart:
-* incomplete
+* ![UML Chart](Lab06UML.png)
 
 
 ## Credits and Collaborations
